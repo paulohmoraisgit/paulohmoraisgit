@@ -2,7 +2,7 @@
 ---
 
 
-- 🔭 I've worked as a indie/freelancer Game Developer and currently i'm only working on personal projects of mine.
+- 🔭 I'm currently only working on personal projects of mine.
 - 🌱 I’m learning TypeScript and NodeJS.
 - 👯 I’m also willing to collaborate on anything i can, as long as i can do it.
 - 💬 Ask me about anything you want.
