@@ -3,7 +3,7 @@
 
 
 - 🔭 I'm currently only working on personal projects of mine.
-- 🌱 I'm studying automotion (batch files, VBScript, PowerShell, Python...).
+- 🌱 I'm studying automotion.
 - 👯 I'm also willing to collaborate on anything i can, as long as i can do it.
 - 💬 Ask me about anything you want.
 - 📫 Reach me through my socials or my email.
