@@ -1,10 +1,6 @@
 ### Howdy! 👋 Please take a sit while you look around. We have some 🍕 for ya here.
 ---
 
-
-- 🔭 I'm currently only working on personal projects of mine.
-- 🌱 I'm studying automotion.
-- 👯 I'm also willing to collaborate on anything i can, as long as i can do it.
 - 💬 Ask me about anything you want.
 - 📫 Reach me through my socials or my email.
 
